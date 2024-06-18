@@ -1,6 +1,7 @@
-gunicorn
-fastapi 
-uvicorn 
-pillow 
-google-cloud-aiplatform
+fastapi
+uvicorn
+pydantic
+Pillow
+google-cloud
 google-generativeai
+google-ai-generativelanguage
