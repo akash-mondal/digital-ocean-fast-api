@@ -5,3 +5,4 @@ Pillow
 google-cloud
 google-generativeai
 google-ai-generativelanguage
+gunicorn
